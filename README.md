@@ -26,11 +26,10 @@
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,c,codeigniter,css,dart,dotnet,figma,firebase,git,html,java,linux,mongodb,mysql,nodejs,oracle,php,postman,react,python" />
-
+<img src="https://skillicons.dev/icons?i=angular,blender,bootstrap,c,codeigniter,css,dart,dotnet,figma,firebase,framer,git,html,java,linux,mongodb,mysql,nodejs,oracle,php,postman,react,python" />
 </p>
 
 ---
